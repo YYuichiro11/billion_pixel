@@ -1,0 +1,127 @@
+
+pmvs2
+C:\Users\jamis\Downloads\mannen01\mannen01_vsfm\img\mannen01.nvm.cmvs\00\
+option-0000
+--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 27 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 16
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: ***************************
+56 7 8910 11  1317 1819 20222324    Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...   Harris running ...12Harris running ... Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ... Harris running ...Harris running ...80294 harris done
+81346 harris done
+DoG running...DoG running...80128 harris done
+81497 harris done
+81065 harris done
+81322 harris done
+DoG running...DoG running...DoG running...DoG running...75429 harris done
+79557 harris done
+DoG running...DoG running...80352 harris done
+79861 harris done
+77054 harris done
+75359 harris done
+78262 harris done
+78053 harris done
+79149 harris done
+81189 harris done
+DoG running...DoG running...DoG running...DoG running...DoG running...DoG running...DoG running...DoG running...99427 dog done
+25 Harris running ...99601 dog done
+26 Harris running ...99570 dog done
+99577 dog done
+99680 dog done
+99487 dog done
+99579 dog done
+99479 dog done
+27 Harris running ...28 Harris running ...29 Harris running ...31 Harris running ...32 Harris running ...34 Harris running ...99601 dog done
+99509 dog done
+35 Harris running ...36 Harris running ...99535 dog done
+99561 dog done
+99578 dog done
+99512 dog done
+99657 dog done
+99440 dog done
+37 Harris running ...80402 harris done
+DoG running...79650 harris done
+DoG running...78359 harris done
+78895 harris done
+78711 harris done
+79433 harris done
+DoG running...DoG running...DoG running...DoG running...80931 harris done
+78492 harris done
+DoG running...DoG running...76806 harris done
+78258 harris done
+DoG running...DoG running...77896 harris done
+DoG running...99542 dog done
+99617 dog done
+99577 dog done
+99544 dog done
+99524 dog done
+99432 dog done
+99539 dog done
+99474 dog done
+99487 dog done
+99540 dog done
+99468 dog done
+done
+adding seeds 
+(12,40)(16,26)(15,23)(14,58)(18,4)(17,0)(21,155)(24,93)(10,0)(13,58)(25,101)(26,45)(5,36)(4,45)(8,7)(2,1)(23,4)(6,28)(3,87)(1,27)(20,1)(22,0)(9,1)(11,0)(7,15)(19,0)(0,15)done
+---- Initial: 5 secs ----
+Total pass fail0 fail1 refinepatch: 8370220 982 8363275 5963 6945
+Total pass fail0 fail1 refinepatch: 100 0.0117321 99.917 0.0712407 0.0829727
+Expanding patches...
+---- EXPANSION: 6 secs ----
+Total pass fail0 fail1 refinepatch: 174763 112772 43004 18987 131759
+Total pass fail0 fail1 refinepatch: 100 64.5285 24.607 10.8644 75.393
+FilterOutside
+mainbody: 
+Gain (ave/var): 0.528863 0.429679
+113471 -> 105645 (93.1031%)	0 secs
+Filter Exact: ***************************
+105645 -> 76728 (72.6281%)	0 secs
+FilterNeighbor:	76728 -> 46560 (60.6819%)	0 secs
+FilterGroups:	20
+46560 -> 32258 (69.2826%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 35 secs ----
+Total pass fail0 fail1 refinepatch: 240506 110247 48846 81413 191660
+Total pass fail0 fail1 refinepatch: 100 45.8396 20.3097 33.8507 79.6903
+FilterOutside
+mainbody: 
+Gain (ave/var): 0.667089 0.467935
+142505 -> 138796 (97.3973%)	0 secs
+Filter Exact: ***************************
+138796 -> 103863 (74.8314%)	0 secs
+FilterNeighbor:	103863 -> 88794 (85.4915%)	0 secs
+FilterGroups:	20
+88794 -> 76291 (85.9191%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...refinePatchBFGS failed!
+
+---- EXPANSION: 20 secs ----
+Total pass fail0 fail1 refinepatch: 361912 173218 68836 119858 293076
+Total pass fail0 fail1 refinepatch: 100 47.8619 19.0201 33.118 80.9799
+FilterOutside
+mainbody: 
+Gain (ave/var): 0.736721 0.505123
+249509 -> 242658 (97.2542%)	0 secs
+Filter Exact: ***************************
+242658 -> 175705 (72.4085%)	0 secs
+FilterNeighbor:	175705 -> 154897 (88.1574%)	0 secs
+FilterGroups:	20
+154897 -> 135266 (87.3264%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 5 secs ----
